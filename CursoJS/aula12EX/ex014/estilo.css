@@ -1,0 +1,51 @@
+body {
+    background: rgb(107, 107, 241);
+}
+h1 {
+    color: rgb(17, 8, 141);
+} 
+
+header {
+    color: white;
+    text-align: center;
+}
+
+section {
+    background: white;
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;    
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.445) /*Sombreamento*/
+}
+
+div {
+    text-align: center;
+    padding: 5px;
+}
+p, h3 {
+    text-align: center;
+   
+}
+
+p:hover {
+    text-align: center;
+    color: darkblue;
+}
+
+button {
+    text-align: center;
+    padding: 10px;
+    margin-left: 730px;
+    border-radius: 5px;
+}
+button:hover {
+    color: darkkhaki;
+}
+
+
+footer {
+    color: rgb(6, 60, 70);
+    text-align: center;
+    font-style: italic;
+}
